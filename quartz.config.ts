@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     baseUrl: "garden.movingpixel.net",
-    ignorePatterns: ["**/private", "templates", ".obsidian"],
+    ignorePatterns: ["**/private", "templates", ".obsidian", "/templates", "/assets" ],
     defaultDateType: "published",
     theme: {
       typography: {
