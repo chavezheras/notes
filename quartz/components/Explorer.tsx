@@ -8,9 +8,9 @@ import { QuartzPluginData } from "../plugins/vfile"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  title: "Explorer",
+  title: "Explore",
   folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
+  folderDefaultState: "open",
   useSavedState: true,
   sortFn: (a, b) => {
     // Sort order: folders first, then files. Sort folders and files alphabetically

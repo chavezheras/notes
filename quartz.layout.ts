@@ -47,3 +47,20 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// components for home page
+export const defaultHomePage: PageLayout = {
+  beforeBody: [Component.ArticleTitle()],
+  pageBody: [Component.RecentNotes()],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
+}
