@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>📝 Daniel&#039;s Notes</title>
+      <link>https://garden.movingpixel.net</link>
+      <description>Last 10 notes on 📝 Daniel&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>small large LLMs</title>
+    <link>https://garden.movingpixel.net/public_notes/small-large-LLMs</link>
+    <guid>https://garden.movingpixel.net/public_notes/small-large-LLMs</guid>
+    <description> My colleague Mercedes Bunz made me aware of this allegedly leaked document from a Google engineer, in which they make the case for open-sourcing their models.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/menu/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/menu/README</guid>
+    <description>reveal.js-menu § A slideout menu plugin for Reveal.js to quickly jump to any slide by title. Also optionally change the theme and set the default transition.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>CONTRIBUTING</title>
+    <link>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/menu/CONTRIBUTING</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/menu/CONTRIBUTING</guid>
+    <description>Contributing § Bug Reports § When reporting a bug make sure to include information about which browser and operating system you are on as well as the necessary steps to reproduce the issue.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/customcontrols/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/customcontrols/README</guid>
+    <description>Custom controls § This plugin allows to add responsive custom controls to reveal.js which allow arbitrary positioning, layout, and behaviour of the controls.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/chart/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/chart/README</guid>
+    <description>Chart § A plugin for Reveal.js allowing to easily add charts using Chart.js. Check out the live demo Installation § Copy the file plugin.js into the plugin folder of your reveal.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/chalkboard/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/creanalytics/plugin/chalkboard/README</guid>
+    <description>Chalkboard § With this plugin you can add a chalkboard to reveal.js. The plugin provides two possibilities to include handwritten notes to your presentation: you can make notes directly on the slides, e.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/menu/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/menu/README</guid>
+    <description>reveal.js-menu § A slideout menu plugin for Reveal.js to quickly jump to any slide by title. Also optionally change the theme and set the default transition.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>CONTRIBUTING</title>
+    <link>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/menu/CONTRIBUTING</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/menu/CONTRIBUTING</guid>
+    <description>Contributing § Bug Reports § When reporting a bug make sure to include information about which browser and operating system you are on as well as the necessary steps to reproduce the issue.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/customcontrols/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/customcontrols/README</guid>
+    <description>Custom controls § This plugin allows to add responsive custom controls to reveal.js which allow arbitrary positioning, layout, and behaviour of the controls.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/chart/README</link>
+    <guid>https://garden.movingpixel.net/public_notes/export/EINA-conference/plugin/chart/README</guid>
+    <description>Chart § A plugin for Reveal.js allowing to easily add charts using Chart.js. Check out the live demo Installation § Copy the file plugin.js into the plugin folder of your reveal.</description>
+    <pubDate>Sun, 03 Dec 2023 18:53:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

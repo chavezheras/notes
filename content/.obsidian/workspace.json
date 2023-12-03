@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "aba80ccb74788300",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7c78154ac92a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e78cee894b88bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa45c692a7e6f985",
+    "type": "split",
+    "children": [
+      {
+        "id": "6033808d3357b4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e166b9cc5f9d819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb24ab53c1063820",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b320ef8456871d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "23849b2380bdc218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "68b602590885c4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1798f4d198ad5269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c163d7626cbf8c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "222e884b9da90eee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "528f14ea54f4aa0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c181a9ed8c3ebe3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "eb24ab53c1063820",
+  "lastOpenFiles": [
+    "public_notes/EINA/index.md",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+    "public_notes/export/creanalytics/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/whiteboard.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/sponge.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-yellow.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-white.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-red.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-purple.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-orange.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-green.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/chalk-blue.png",
+    "public_notes/export/creanalytics/plugin/chalkboard/img/boardmarker-yellow.png",
+    "public_notes/export/creanalytics/plugin/menu/README.md",
+    "public_notes/export/creanalytics/plugin/menu/CONTRIBUTING.md",
+    "public_notes/export/creanalytics/plugin/customcontrols/README.md",
+    "public_notes/export/creanalytics/plugin/chart/README.md",
+    "public_notes/export/creanalytics/plugin/chalkboard/README.md",
+    "public_notes/EINA/_index.md",
+    "public_notes/EINA/EINA_conference.md",
+    "public_notes/EINA/EINA conference 1.md",
+    "public_notes/EPFL symposium/Creanalytics.md",
+    "export/Creanalytics/plugin/chalkboard/README.md",
+    "export/Creanalytics/plugin/chart/README.md",
+    "export/Creanalytics/plugin/customcontrols/README.md",
+    "export/Creanalytics/plugin/menu/CONTRIBUTING.md",
+    "export/Creanalytics/plugin/menu/README.md",
+    "home/daniel/OneDrive/Academic/Research/Publications/first_cow/Cinema and Machine Vision/projects/DV/data/shots/stills/godfather-Scene-1365-03.jpg.md",
+    "public_notes/export/Creanalytics/plugin/chalkboard/README.md",
+    "public_notes/export/Creanalytics/plugin/chart/README.md",
+    "public_notes/export/Creanalytics/plugin/customcontrols/README.md",
+    "public_notes/export/Creanalytics/plugin/menu/CONTRIBUTING.md",
+    "public_notes/export/Creanalytics/plugin/menu/README.md",
+    "_index.md",
+    "public_notes/Tools/Movie Barcodes.md",
+    "public_notes/export/EINA conference/plugin/chalkboard/README.md",
+    "public_notes/export/EINA conference/plugin/chart/README.md",
+    "public_notes/export/EINA conference/plugin/customcontrols/README.md"
+  ]
+}
