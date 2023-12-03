@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "garden.movingpixel.net",
     ignorePatterns: ["**/private", "templates", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
